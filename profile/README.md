@@ -1,6 +1,14 @@
+<div align="center">
+
 # AgenticDao
 
 **Pioneering the Future of Decentralized AI Agent Economy**
+
+</div>
+
+<div align="center">
+  <img src="assets/logo.svg" alt="AgenticDao Logo" width="500" height="500">
+</div>
 
 ## About AgenticDao
 
